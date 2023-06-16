@@ -1,0 +1,30 @@
+/* 
+Table of contents:
+1. General styles
+2. Layout
+3. Components 
+*/
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+/* This border is just to see the boxes as I work with them. Delete when finished */
+
+.header,
+.container,
+.footer {
+    border: 2px solid black;
+}
+
+
+.content1,
+.content2,
+.content3,
+.action {
+     border: 2px solid black;
+}
