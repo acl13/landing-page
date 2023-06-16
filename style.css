@@ -10,7 +10,10 @@ body {
     flex-direction: column;
 }
 
-
+img {
+    height: 200px;
+    width: auto:
+}
 
 
 /* This border is just to see the boxes as I work with them. Delete when finished */
