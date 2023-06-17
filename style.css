@@ -1,9 +1,13 @@
 /* 
 Table of contents:
-1. General styles
-2. Layout
+1. Layout
+2. General Styles
 3. Components 
 */
+
+
+
+/* 1. Layout */
 
 body {
     height: 100vh;
@@ -23,6 +27,11 @@ body {
 .action {
     flex: 1;
 }
+
+
+
+
+
 
 img {
     height: 200px;
