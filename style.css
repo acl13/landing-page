@@ -101,6 +101,10 @@ img {
     width: auto:
 }
 
+.hero {
+    width: 450px;
+}
+
 
 /* This border is just to see the boxes as I work with them. Delete when finished */
 
