@@ -7,7 +7,7 @@ Table of contents:
 
 
 
-/* 1. Layout */
+/*  1. Layout  */
 
 body {
     height: 100vh;
@@ -29,6 +29,19 @@ body {
 }
 
 
+/*  2. General Styles  */
+
+.header {
+    background-color: #1F2937;
+    font-family: Roboto, Arial, sans-serif;
+
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 550;
+}
 
 
 
