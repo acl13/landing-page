@@ -14,8 +14,13 @@ body {
     display: flex;
     flex-direction: column;
     font-family: Roboto, Arial, sans-serif;
-    
 
+}
+
+.header,
+.content1,
+.footer {
+    background-color: #1F2937;
 }
 
 
