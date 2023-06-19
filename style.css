@@ -85,11 +85,14 @@ a {
 h1 {
     font-size: 48px;
     color: #F9FAF8;
+    margin-bottom: 0px;
+    
 }
 
 p {
     font-size: 18px;
     color: #E5E7EB;
+    margin: 0px;
 }
 
 
