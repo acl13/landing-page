@@ -34,6 +34,10 @@ body {
 .header {
     background-color: #1F2937;
     font-family: Roboto, Arial, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 8px;
 
 }
 
