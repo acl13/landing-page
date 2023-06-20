@@ -102,6 +102,13 @@ button {
 }
 
 
+.content3 {
+    background-color: #E5E7EB;
+    text-align: center;
+    padding: 40px 60px; 
+}
+
+
 
 /*  3. Components  */
 
@@ -131,7 +138,11 @@ button {
     text-align: center;
 }
 
-/* This border is just to see the boxes as I work with them. Delete when finished */
 
-
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937;
+}
 
