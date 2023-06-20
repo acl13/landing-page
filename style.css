@@ -43,6 +43,12 @@ h1 {
     
 }
 
+h2 {
+    margin: 0px;
+    padding: 0px;
+    color:#F9FAF8
+}
+
 p {
     font-size: 18px;
     color: #E5E7EB;
@@ -60,7 +66,7 @@ img {
 
 button {
     background-color: #3882F6;
-    color: white;
+    color: #F9FAF8;
     font-weight: bold;
     border-radius: 5px;
     margin-top: 6px;
@@ -111,6 +117,13 @@ button {
 
 }
 
+.action {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
 
 
 /*  3. Components  */
@@ -129,7 +142,7 @@ button {
 
 .placeholder {
     background-color: #7b838f;;
-    color: white;
+    color: #F9FAF8;
     padding: 85px 70px;
 }
 
@@ -157,3 +170,6 @@ button {
     margin-right: 50px;
 }
 
+.action button {
+    border: 1px solid #F9FAF8;
+}
