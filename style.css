@@ -122,6 +122,11 @@ button {
 
 }
 
+.box {
+    max-width: 820px;
+   
+}
+
 .content4 {
     display: flex;
     justify-content: center;
@@ -195,7 +200,7 @@ button {
 }
 
 .author {
-    align-self: flex-end;
+    text-align: right;
     font-weight: bold;
    
 }
