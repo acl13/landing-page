@@ -11,8 +11,6 @@ Table of contents:
 
 body {
     height: 100vh;
-    display: flex;
-    flex-direction: column;
     font-family: Arial, sans-serif;
 
 }
@@ -75,18 +73,6 @@ button {
 /*   2. Layout   */
 
 
-.container {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-}
-
-.content1,
-.content2,
-.content3,
-.action {
-    flex: 1;
-}
 
 
 .header {
@@ -147,16 +133,5 @@ button {
 
 /* This border is just to see the boxes as I work with them. Delete when finished */
 
-.header,
-.container,
-.footer {
-    border: 2px solid black;
-}
 
 
-.content1,
-.content2,
-.content3,
-.action {
-     border: 2px solid black;
-}
