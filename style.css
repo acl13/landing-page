@@ -119,6 +119,12 @@ button {
 }
 
 
+.placeholder {
+    background-color: #7b838f;;
+    color: white;
+    padding: 85px 70px;
+}
+
 /* This border is just to see the boxes as I work with them. Delete when finished */
 
 .header,
