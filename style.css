@@ -12,6 +12,7 @@ Table of contents:
 body {
     height: 100vh;
     font-family: Arial, sans-serif;
+   
 
 }
 
@@ -134,6 +135,11 @@ button {
     
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 /*  3. Components  */
@@ -182,4 +188,9 @@ button {
 
 .action button {
     border: 1px solid #F9FAF8;
+}
+
+.footer div {
+    color: #F9FAF8;
+    padding: 30px;
 }
