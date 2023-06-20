@@ -13,7 +13,7 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    font-family: Roboto, Arial, sans-serif;
+    font-family: Arial, sans-serif;
 
 }
 
@@ -123,6 +123,14 @@ button {
     background-color: #7b838f;;
     color: white;
     padding: 85px 70px;
+}
+
+.information {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 800;
+    margin: 20px auto;
+    text-align: center;
 }
 
 /* This border is just to see the boxes as I work with them. Delete when finished */
